@@ -1,0 +1,1 @@
+tmr.register(0, 5000, tmr.ALARM_AUTO, function() print("hey there") end)

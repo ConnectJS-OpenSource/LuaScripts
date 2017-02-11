@@ -1,0 +1,1 @@
+gpio.mode(3,gpio.INPUT)
